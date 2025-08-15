@@ -1,4 +1,4 @@
-# RDS Healthcare API
+# RDS API
 Its now compliant with FHIR (Fast Healthcare Interoperability Resources) R4 standards.
 
 ## Features

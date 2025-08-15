@@ -356,34 +356,5 @@ docker logs healthcare-api
 docker logs -f healthcare-api
 \`\`\`
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Run linting and tests
-6. Submit a pull request
 
-### Code Standards
-
-- Follow Go best practices
-- Write comprehensive tests
-- Document public APIs
-- Use structured logging
-- Maintain FHIR compliance
-
-## License
-
-MIT License - see LICENSE file for details.
-
-## Support
-
-For issues and questions:
-- Create an issue in the repository
-- Check the troubleshooting guide
-- Review the API documentation
-
----
-
-**Note**: This is a healthcare API handling sensitive data. Ensure proper security measures, compliance with healthcare regulations (HIPAA, GDPR), and regular security audits in production environments.
